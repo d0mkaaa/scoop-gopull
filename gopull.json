@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/d0mkaaa/gopull/releases/download/v0.2.0/gopull_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/d0mkaaa/gopull/releases/download/v0.3.0/gopull_0.3.0_windows_amd64.zip",
             "bin": [
                 "gopull.exe"
             ],
-            "hash": "c362100952fce06d84972ba68ca24ae27586c814e5d8356785dd4aa9cd1a6054"
+            "hash": "9b169f0288102a34cf52dce5e942fd0b1a6ed8ce144c5c005f25ea5e6bc9fc23"
         }
     },
     "homepage": "https://github.com/d0mkaaa/gopull",
